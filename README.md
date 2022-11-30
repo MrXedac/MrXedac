@@ -3,7 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/mrxedac" target="blank"><img src="https://img.shields.io/twitter/follow/mrxedac?logo=twitter&style=for-the-badge" alt="mrxedac" /></a> </p>
 
+- 💬 Ask me about **kernel development & x86 architectures**
+
 - 📫 How to reach me **quentin.bergougnoux@gmail.com**
+
+- ⚡ Fun fact **I made the Duck converter. Don't ask me why!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
